@@ -30,3 +30,10 @@ urlcolor: blue
 # Section
 __Section CDS-101-K02__
 
+# Course Goals
+
+# Including Code
+## Running R code in a code chunk
+
+## Displaying Graphs
+
